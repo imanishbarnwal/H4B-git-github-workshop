@@ -1,1 +1,1 @@
-# H4B-git-github-workshop
+# Hack4Bengal: Git & GitHub Workshop
