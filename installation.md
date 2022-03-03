@@ -71,6 +71,10 @@ The following image shows an example of my configuration with my "user_name" bei
 
 ![Image of CONFIG CONSOLE](https://i.postimg.cc/WbmGGJvS/Screenshot-from-2022-03-03-23-03-50.png)
 
+# Download & Install VS Code
+
+Here's the dowloading link: https://code.visualstudio.com/download
+
 #### Now you are ready for the workshop!!🚀🚀
 
 #### See you in session...👩‍💻👨‍💻
