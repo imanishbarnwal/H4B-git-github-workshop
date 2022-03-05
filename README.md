@@ -1,3 +1,3 @@
-# Hack4Bengal: Getting STarted with `git init`
+# Hack4Bengal: Getting Started with `git init`
 
 
