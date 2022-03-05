@@ -1,1 +1,3 @@
-# Hack4Bengal: Git & GitHub Workshop
+# Hack4Bengal: Getting STarted with `git init`
+
+
