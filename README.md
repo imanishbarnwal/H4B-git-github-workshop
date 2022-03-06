@@ -8,3 +8,4 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 
 ### Attendees & Feedbacks:
 -   [Hemant Kumar Sharma] (https://github.com/iamhks1703), It was a great experience interacting with this repository.
+-   [Rishabh Dhawad] (https://github.com/RishabhDhawad), The session was amazing, all the things were explained from scrach, Amazing Session.
