@@ -7,4 +7,4 @@ As a little token of my appreciation, I want to give every participant who joine
 For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository and follow along the instructions.
 
 ### Attendees & Feedbacks:
--   [Hemant Kumar Sharma] (https://github.com/iamhks1703), It was a great experience interacting to this repository.
+-   [Hemant Kumar Sharma] (https://github.com/iamhks1703), It was a great experience interacting with this repository.
