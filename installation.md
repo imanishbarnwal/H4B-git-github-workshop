@@ -32,9 +32,9 @@
 
   `git --version` tells you the Git version currently installed on a system. It is also a confirmation that Git is installed.
 
-- ## MAC OS X INSTALLATION GUIDE
+- ## macOS INSTALLATION GUIDE
 
-  Here are a few links to help you install git bash on your MAC OS X system:
+  Here are a few links to help you install git bash on your macOS system:
 
   https://git-scm.com/download/mac
 
