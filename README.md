@@ -10,4 +10,4 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 
 
 
-- [Bartick Maiti] (https://github.com/bartick), It was a great experience interacting with this repository.
+- [Bartick Maiti](https://github.com/bartick), It was a great experience interacting with this repository.
