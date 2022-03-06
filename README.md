@@ -7,3 +7,4 @@ As a little token of my appreciation, I want to give every participant who joine
 For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository and follow along the instructions.
 
 ### Attendees & Feedbacks:
+ - [Vidhya Lakshmi](https://github.com/vid-27), I really enjoyed interacting with you all. The session was super cool and informative!
