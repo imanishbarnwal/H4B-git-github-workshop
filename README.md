@@ -8,3 +8,4 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 
 ### Attendees & Feedbacks:
 -   [Hemant Kumar Sharma](https://github.com/iamhks1703), It was a great experience interacting with this repository.
+-    [Aniket Das](https://github.com/kodepirate), It was a great experience interacting with this repository.
