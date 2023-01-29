@@ -2,6 +2,8 @@
 
 For a simple git guide, you can check out [A simple handy git guide](https://rogerdudler.github.io/git-guide/) and the [Cheatsheet by Github](https://education.github.com/git-cheat-sheet-education.pdf).
 
+## 𝗚𝗲𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 𝘄𝗶𝘁𝗵 Git & GitHub - [Youtube](https://www.youtube.com/live/EFnokAJuWcI?feature=share)
+
 ## Advanced
 
 Once you are pretty much comfortable with the contents of the workshop. Don't stop! There are many more useful and powerful features of git, which can improve development experience.
